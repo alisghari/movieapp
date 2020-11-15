@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.listmovies{
+  display: flex;
+}
+.input{
+  min-width: 80px;
+}
+input{
+  min-width: 300px;
+}
+.movie{
+  color: black;
+  font-size: 18px;
+  margin: 0 10px;
+}
